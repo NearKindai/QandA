@@ -99,6 +99,10 @@ td {
     margin: 0.50%;
 }
 
+.littleBlock.android {
+    font-size: 30px;
+}
+
 #headPic {
     width: 100%;
 }
